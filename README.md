@@ -56,7 +56,7 @@ AIFFEL DAEGU 1 TEAM 3
     - test 데이터 : 60개 건물들의 2020년 8월 25일 부터 2020년 8월 31일까지의 데이터
     - 3시간 단위로 제공(강수량의 경우 6시간 단위로 제공,  예보데이터)
     - 전력사용량(kWh) 미포함
-    - columns: num, date_time, 기온(°C), 풍속(m/s), 습도(%), "강수량(mm,  6시간)", "일조(hr,  3시간)", 비전기냉방설비운영, 태양광보유
+    - columns: num, date_time, 기온(°C), 풍속(m/s), 습도(%), 강수량(mm,  6시간), 일조(hr,  3시간), 비전기냉방설비운영, 태양광보유
 
 ## EDA (Exploratory Data Analysis)
 

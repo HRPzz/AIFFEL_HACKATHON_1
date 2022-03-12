@@ -6,8 +6,8 @@ AIFFEL DAEGU 1 TEAM 3
 
 # 제 1차 해커톤: 데이터톤(Datathon)
 
-
 ## CALENDAR (2022.03.08 ~ 2022.03.11)
+
 ### March, 2022 (3 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |

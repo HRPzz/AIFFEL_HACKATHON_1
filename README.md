@@ -72,7 +72,7 @@ AIFFEL DAEGU 1 TEAM 3
   - ZEP
   - Session 5
   - ![ZEP 미니맵](https://user-images.githubusercontent.com/44178037/158010804-031ebd70-3854-4355-bc5b-e49a636d9363.png)
-- 날짜
+- 날짜 및 시간
   - 22.03.11.금
   - 14:10 ~ 14:30
   - ![발표 순서](https://user-images.githubusercontent.com/44178037/158010806-d5af5557-eec1-4e86-9cf0-5135d28f0bbd.png)

@@ -34,7 +34,7 @@ AIFFEL DAEGU 1 TEAM 3
 - 조원 역할
 
 >|번호|조원|깃허브|역할|
->|:---:|---|:---:|:---:|
+>|:---:|:---:|:---:|---|
 >|1|박혜령|[🚩](https://github.com/HRPzz)|시각화, 인사이트, 발표|
 >|2|이봄|[🚩](https://github.com/bom-Lee)|분석, 최종 정리, 발표|
 >|3|허준호|[🚩](https://github.com/nidolight)|시각화|
@@ -43,7 +43,7 @@ AIFFEL DAEGU 1 TEAM 3
 - 협업 툴 사용
 
 >|번호|항목|링크|용도|
->|:---:|---|:---:|:---:|
+>|:---:|---|:---:|---|
 >|1|Gather Town|-|만남, 소통|
 >|2|Figma|[🔗](https://www.figma.com/file/fvseqWDBu9KVL02yCtXK1d/H-01_3%EC%A1%B0?node-id=0%3A1)|자료 정리|
 >|3|Google Shared Drive|[🔗](https://drive.google.com/drive/folders/1BTrydJv_zhqTk7zyQS8pjf4NgPnFfsCC?usp=sharing)|파일 공유|

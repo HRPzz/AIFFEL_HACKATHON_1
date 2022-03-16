@@ -44,6 +44,7 @@ AIFFEL DAEGU 1 TEAM 3
 >|2|Figma|[🔗](https://www.figma.com/file/fvseqWDBu9KVL02yCtXK1d/H-01_3%EC%A1%B0?node-id=0%3A1)|자료 정리|
 >|3|Google Shared Drive|[🔗](https://drive.google.com/drive/folders/1BTrydJv_zhqTk7zyQS8pjf4NgPnFfsCC?usp=sharing)|파일 공유|
 >|4|Colab Jupyter Notebook|[🔗](https://colab.research.google.com/drive/1lU_jVPNErtE1wvx5NGM_VsNSk6o9Ag-F)|코드 및 마크다운 작성|
+>|5|GitHub|[🔗](%5BH-01%5D%20Team03_Datathon.ipynb)|업로드 및 제출|
 
 ## 선택한 데이터셋
 

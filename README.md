@@ -31,7 +31,15 @@ AIFFEL DAEGU 1 TEAM 3
 
 ## 대구3조
 
-- 조원: [박혜령](https://github.com/HRPzz), [이봄](https://github.com/bom-Lee), [허준호](https://github.com/nidolight), [권민호](https://github.com/kwonminho8314)
+- 조원 역할
+
+>|번호|조원|링크|역할|
+>|:---:|---|:---:|:---:|
+>|1|박혜령|[🚩](https://github.com/HRPzz)|시각화, 인사이트, 발표|
+>|2|이봄|[🚩](https://github.com/bom-Lee)|분석, 정리, 발표|
+>|3|허준호|[🚩](https://github.com/nidolight)|시각화|
+>|4|권민호|[🚩](https://github.com/kwonminho8314)|시각화, 분석|
+
 - 협업 툴 사용
 
 >|번호|항목|링크|용도|
@@ -42,7 +50,7 @@ AIFFEL DAEGU 1 TEAM 3
 >|4|Colab Jupyter Notebook|[🔗](https://colab.research.google.com/drive/1lU_jVPNErtE1wvx5NGM_VsNSk6o9Ag-F)|코드 및 마크다운 작성|
 >|5|GitHub|[🔗](%5BH-01%5D%20Team03_Datathon.ipynb)|업로드 및 제출|
 
-## 선택한 데이터셋
+## 데이터셋
 
 - 선택한 데이터셋: [전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/235736/data)
 

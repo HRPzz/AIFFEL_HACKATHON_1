@@ -8,14 +8,14 @@ AIFFEL DAEGU 1 TEAM 3
 
 ## CALENDAR (2022.03.08 ~ 2022.03.11)
 
-### March, 2022 (3 days)
+### March, 2022  (3 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | - | 팀플 진행 | - | 팀플 진행 | 전시 발표 | - |
+>| **To Do** | - | - | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01](%5BH-01%5D%20Team03_Datathon.ipynb)<br>전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
@@ -43,6 +43,7 @@ AIFFEL DAEGU 1 TEAM 3
 >|1|Gather Town|만남, 소통|
 >|2|[Figma](https://www.figma.com/file/fvseqWDBu9KVL02yCtXK1d/H-01_3%EC%A1%B0?node-id=0%3A1)|자료 정리|
 >|3|[Google Shared Drive](https://drive.google.com/drive/folders/1BTrydJv_zhqTk7zyQS8pjf4NgPnFfsCC?usp=sharing)|파일 공유|
+>|4|[Colab Jupyter Notebook](https://drive.google.com/file/d/1lU_jVPNErtE1wvx5NGM_VsNSk6o9Ag-F/view?usp=sharing)|코드 및 마크다운 작성|
 
 ## 선택한 데이터셋
 

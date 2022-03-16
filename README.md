@@ -35,10 +35,10 @@ AIFFEL DAEGU 1 TEAM 3
 
 >|번호|조원|깃허브|역할|
 >|:---:|:---:|:---:|---|
->|1|박혜령|[🚩](https://github.com/HRPzz)|시각화, 인사이트, 발표|
->|2|이봄|[🚩](https://github.com/bom-Lee)|분석, 최종 정리, 발표|
->|3|허준호|[🚩](https://github.com/nidolight)|시각화|
->|4|권민호|[🚩](https://github.com/kwonminho8314)|시각화, 분석|
+>|1|박혜령|[➡️](https://github.com/HRPzz)|시각화, 인사이트, 발표|
+>|2|이봄|[➡️](https://github.com/bom-Lee)|분석, 최종 정리, 발표|
+>|3|허준호|[➡️](https://github.com/nidolight)|시각화|
+>|4|권민호|[➡️](https://github.com/kwonminho8314)|시각화, 분석|
 
 - 협업 툴 사용
 
@@ -52,10 +52,11 @@ AIFFEL DAEGU 1 TEAM 3
 
 ## 데이터셋
 
-- 선택한 데이터셋: [전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/235736/data)
+- 선택한 데이터셋: **전력사용량 예측 AI 경진대회**
 
 >||전력사용량 예측 AI 경진대회 개요|
 >|:---:|---|
+>|Link|[➡️](https://dacon.io/competitions/official/235736/data)|
 >|Tags|시계열, SMAPE, 한국에너지공단, 전력|
 >|배경|- 전력 수요 예측 시뮬레이션을 통한 효율적인 인공지능 알고리즘 발굴<br>- 전력 융합 신서비스 발굴 및 비즈니스 모델 개발 활용<br>- 디지털 뉴딜의 성공을 위한 인공지능(AI)의 융합, 확산을 촉진|
 >|목적|건물 정보와 기후 정보를 활용한 전력사용량 예측|

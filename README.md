@@ -74,10 +74,10 @@ AIFFEL DAEGU 1 TEAM 3
 ## EDA (Exploratory Data Analysis)
 
 - 데이터 **시각화** 를 통한 분석 진행 과정
-  - 각 건물별 성격(mbti) 정하기
-  - 대구 캠퍼스 교육생 mbti 설문조사
-  - mbti 궁합으로 알맞은 건물 추천하기
-- **Insight: 대구 캠퍼스 수강생 mbti 에 어울리는 건물 추천하기**
+  - 각 건물별 성격(MBTI) 정하기
+  - 대구 캠퍼스 교육생 MBTI 설문조사
+  - MBTI 궁합으로 알맞은 건물 추천하기
+- **Insight: 대구 캠퍼스 수강생 MBTI 에 어울리는 건물 추천하기**
 
 ## 전시 및 발표
 

@@ -25,13 +25,9 @@ AIFFEL DAEGU 1 TEAM 3
 
 ## 소개
 
-### 아이펠 여러분의 천생연분을 찾아드립니다!
-
-![intro img](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI5CHm%2FbtqNVS1OFZh%2FTKFhrpy49sdTxlXzwUwHP1%2Fimg.png)
-
-안녕하세요? 저희 조는 전력사용량 데이터셋을 새로운 시각으로 분석하고자 노력했습니다. 주어진 데이터셋을 활용하여 팀원끼리 협동하여 재미있고 흥미로운 주제로 프로젝트를 진행하고자 했습니다.
-
-부족하지만 가벼운 마음으로 즐겁게 봐주세요!
+>||아이펠 여러분의 천생연분을 찾아드립니다!|
+>|:---:|---|
+>|![intro img](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI5CHm%2FbtqNVS1OFZh%2FTKFhrpy49sdTxlXzwUwHP1%2Fimg.png)|안녕하세요? 저희 조는 전력사용량 데이터셋을 새로운 시각으로 분석하고자 노력했습니다. 주어진 데이터셋을 활용하여 팀원끼리 협동하여 재미있고 흥미로운 주제로 프로젝트를 진행하고자 했습니다.<br><br>부족하지만 가벼운 마음으로 즐겁게 봐주세요!|
 
 ## 대구3조
 

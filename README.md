@@ -1,21 +1,35 @@
-# AIFFEL_HACKATHON_1 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL_HACKATHON_1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL_HACKATHON_1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-AIFFEL DAEGU 1 TEAM 3
+<h1 align="center">🎉 제 1차 해커톤: 데이터톤(Datathon) 🎉</h1>
+
+<h1 align="right">AIFFEL_HACKATHON_1</h1>
+<div align="right">AIFFEL DAEGU 1 TEAM 3</div>
 
 ---
 
-# 제 1차 해커톤: 데이터톤(Datathon)
+## 📌 TABLE OF CONTENTS
 
-## CALENDAR (2022.03.08 ~ 2022.03.11)
+- [📆 CALENDAR](#-calendar-20220308--20220311)
+- [👋 소개](#-소개)
+- [😉 대구3조](#-대구3조)
+- [🏭 데이터셋](#-데이터셋)
+- [📊 EDA (Exploratory Data Analysis)](#-eda-exploratory-data-analysis)
+- [🔔 전시 및 발표](#-전시-및-발표)
+- [🎁 평가 및 시상](#-평가-및-시상)
+- [🔗 참고자료](#-참고자료)
 
-### March, 2022  (3 days)
+---
+
+## 📆 CALENDAR (2022.03.08 ~ 2022.03.11)
+
+### 🐯 March, 2022  (3 days)
 
 >| Week | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 >|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | - | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01](%5BH-01%5D%20Team03_Datathon.ipynb)<br>전시 발표 | - |
+>| **To Do** | - | - | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01][H-01]<br>전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
@@ -23,13 +37,27 @@ AIFFEL DAEGU 1 TEAM 3
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-## 소개
+[H-01]: %5BH-01%5D%20Team03_Datathon.ipynb
+
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 👋 소개
 
 >||아이펠 여러분의 천생연분을 찾아드립니다!|
 >|:---:|---|
->|![intro img](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI5CHm%2FbtqNVS1OFZh%2FTKFhrpy49sdTxlXzwUwHP1%2Fimg.png)|안녕하세요? 저희 조는 전력사용량 데이터셋을 새로운 시각으로 분석하고자 노력했습니다. 주어진 데이터셋을 활용하여 팀원끼리 협동하여 재미있고 흥미로운 주제로 프로젝트를 진행하고자 했습니다.<br><br>부족하지만 가벼운 마음으로 즐겁게 봐주세요!|
+>|![Intro IMG][Intro IMG]|안녕하세요? 저희 조는 전력사용량 데이터셋을 새로운 시각으로 분석하고자 노력했습니다. 주어진 데이터셋을 활용하여 팀원끼리 협동하여 재미있고 흥미로운 주제로 프로젝트를 진행하고자 했습니다.<br><br>부족하지만 가벼운 마음으로 즐겁게 봐주세요!|
 
-## 대구3조
+[➡ [H-01] Team03_Datathon.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)
+
+[Intro IMG]: https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI5CHm%2FbtqNVS1OFZh%2FTKFhrpy49sdTxlXzwUwHP1%2Fimg.png
+
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 😉 대구3조
 
 - 조원 역할
 
@@ -50,18 +78,24 @@ AIFFEL DAEGU 1 TEAM 3
 >|4|Colab Jupyter Notebook|[🔗](https://colab.research.google.com/drive/1lU_jVPNErtE1wvx5NGM_VsNSk6o9Ag-F)|코드 및 마크다운 작성|
 >|5|GitHub|[🔗](%5BH-01%5D%20Team03_Datathon.ipynb)|업로드 및 제출|
 
-## 데이터셋
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 🏭 데이터셋
 
 - 선택한 데이터셋: **전력사용량 예측 AI 경진대회**
 
 >||전력사용량 예측 AI 경진대회 개요|
 >|:---:|---|
->|Link|[➡️](https://dacon.io/competitions/official/235736/data)|
+>|Link|[➡️][전력사용량 예측 AI 경진대회]|
 >|Tags|시계열, SMAPE, 한국에너지공단, 전력|
 >|배경|- 전력 수요 예측 시뮬레이션을 통한 효율적인 인공지능 알고리즘 발굴<br>- 전력 융합 신서비스 발굴 및 비즈니스 모델 개발 활용<br>- 디지털 뉴딜의 성공을 위한 인공지능(AI)의 융합, 확산을 촉진|
 >|목적|건물 정보와 기후 정보를 활용한 전력사용량 예측|
 >|주최|한국에너지공단|
 >|주관|데이콘|
+
+[전력사용량 예측 AI 경진대회]: https://dacon.io/competitions/official/235736/data
 
 - 데이터 설명
 
@@ -73,7 +107,11 @@ AIFFEL DAEGU 1 TEAM 3
 >|전력사용량(kWh) 유무|포함|미포함|
 >|columns|num, date_time, 전력사용량(kWh), 기온(°C), 풍속(m/s), 습도(%), 강수량(mm), 일조(hr), 비전기냉방설비운영, 태양광보유|num, date_time, 기온(°C), 풍속(m/s), 습도(%), 강수량(mm,  6시간), 일조(hr,  3시간), 비전기냉방설비운영, 태양광보유|
 
-## EDA (Exploratory Data Analysis)
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 📊 EDA (Exploratory Data Analysis)
 
 - 데이터 **시각화** 를 통한 분석 진행 과정
   - 시간에 따른 전력 사용량 패턴 분석으로 건물의 MBTI 정하기
@@ -81,14 +119,25 @@ AIFFEL DAEGU 1 TEAM 3
   - MBTI 궁합으로 알맞은 건물 추천하기
 - **INSIGHT: 대구 캠퍼스 수강생 MBTI 에 어울리는 건물 추천하기**
 
-## 전시 및 발표
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 🔔 전시 및 발표
 
 >|장소|날짜 및 시간|
 >|:---:|:---:|
 >|ZEP<br>Session 5|22.03.11.금<br>14:10 ~ 14:30|
->|![ZEP 미니맵](https://user-images.githubusercontent.com/44178037/158010804-031ebd70-3854-4355-bc5b-e49a636d9363.png)|![발표 순서](https://user-images.githubusercontent.com/44178037/158010806-d5af5557-eec1-4e86-9cf0-5135d28f0bbd.png)|
+>|![ZEP 미니맵][ZEP Mini Map]|![발표 순서][Presentation Order]|
 
-## 평가 및 시상
+[ZEP Mini Map]: https://user-images.githubusercontent.com/44178037/158010804-031ebd70-3854-4355-bc5b-e49a636d9363.png
+[Presentation Order]: https://user-images.githubusercontent.com/44178037/158010806-d5af5557-eec1-4e86-9cf0-5135d28f0bbd.png
+
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 🎁 평가 및 시상
 
 - 평가 표(절대평가)
 
@@ -106,7 +155,11 @@ AIFFEL DAEGU 1 TEAM 3
   - 2단계: 총점 100점 **만점 기준 75점 이상** 달성
 - 평가 결과: 2단계 통과
 
-## 참고자료
+**[⬆ back to top](#-table-of-contents)**
+
+---
+
+## 🔗 참고자료
 
 - LMS
   - EXPLORATION
@@ -120,3 +173,5 @@ AIFFEL DAEGU 1 TEAM 3
     - F-15. 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리
 - Dacon
 - Kaggle
+
+**[⬆ back to top](#-table-of-contents)**

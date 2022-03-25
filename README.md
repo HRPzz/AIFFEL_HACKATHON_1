@@ -5,6 +5,10 @@
 <h2 align="right">AIFFEL_HACKATHON_1</h2>
 <div align="right">AIFFEL DAEGU 1 TEAM 3</div>
 
+[➡ [H-01] Team03_Datathon.ipynb with nbviewer][H-01 nbviewer]
+
+[H-01 nbviewer]: https://nbviewer.org/github/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb
+
 ---
 
 ## 📌 TABLE OF CONTENTS
@@ -29,7 +33,7 @@
 >| **1** | - | - | **1** | **2** | **3** | **4** | **5** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **2** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
->| **To Do** | - | - | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01][H-01]<br>전시 발표 | - |
+>| **To Do** | - | - | H-01<br>팀플 진행 | - | H-01<br>팀플 진행 | [H-01][GitHub]<br>전시 발표 | - |
 >| **3** | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 >| **To Do** | - | - | - | - | - | - | - |
 >| **4** | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
@@ -37,7 +41,7 @@
 >| **5** | **27** | **28** | **29** | **30** | **31** | - | - |
 >| **To Do** | - | - | - | - | - | - | - |
 
-[H-01]: %5BH-01%5D%20Team03_Datathon.ipynb
+[GitHub]: %5BH-01%5D%20Team03_Datathon.ipynb
 
 **[⬆ back to top](#-table-of-contents)**
 
@@ -48,8 +52,6 @@
 >||아이펠 여러분의 천생연분을 찾아드립니다!|
 >|:---:|---|
 >|![Intro IMG][Intro IMG]|안녕하세요? 저희 조는 전력사용량 데이터셋을 새로운 시각으로 분석하고자 노력했습니다. 주어진 데이터셋을 활용하여 팀원끼리 협동하여 재미있고 흥미로운 주제로 프로젝트를 진행하고자 했습니다.<br><br>부족하지만 가벼운 마음으로 즐겁게 봐주세요!|
-
-[➡ [H-01] Team03_Datathon.ipynb with nbviewer](https://nbviewer.org/github/HRPzz/AIFFEL_HACKATHON_1/blob/main/%5BH-01%5D%20Team03_Datathon.ipynb)
 
 [Intro IMG]: https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI5CHm%2FbtqNVS1OFZh%2FTKFhrpy49sdTxlXzwUwHP1%2Fimg.png
 
@@ -63,20 +65,31 @@
 
 >|번호|조원|깃허브|역할|
 >|:---:|:---:|:---:|---|
->|1|박혜령|[➡️](https://github.com/HRPzz)|시각화, 인사이트, 발표|
->|2|이봄|[➡️](https://github.com/bom-Lee)|분석, 최종 정리, 발표|
->|3|허준호|[➡️](https://github.com/nidolight)|시각화|
->|4|권민호|[➡️](https://github.com/kwonminho8314)|시각화, 분석|
+>|1|박혜령|[➡️][HRPzz]|시각화, 인사이트, 발표|
+>|2|이봄|[➡️][bom-Lee]|분석, 최종 정리, 발표|
+>|3|허준호|[➡️][nidolight]|시각화|
+>|4|권민호|[➡️][kwonminho8314]|시각화, 분석|
+
+[HRPzz]: https://github.com/HRPzz
+[bom-Lee]: https://github.com/bom-Lee
+[nidolight]: https://github.com/nidolight
+[kwonminho8314]: https://github.com/kwonminho8314
+
 
 - 협업 툴 사용
 
 >|번호|항목|링크|용도|
 >|:---:|---|:---:|---|
 >|1|Gather Town|-|만남, 소통|
->|2|Figma|[🔗](https://www.figma.com/file/fvseqWDBu9KVL02yCtXK1d/H-01_3%EC%A1%B0?node-id=0%3A1)|자료 정리|
->|3|Google Shared Drive|[🔗](https://drive.google.com/drive/folders/1BTrydJv_zhqTk7zyQS8pjf4NgPnFfsCC?usp=sharing)|파일 공유|
->|4|Colab Jupyter Notebook|[🔗](https://colab.research.google.com/drive/1lU_jVPNErtE1wvx5NGM_VsNSk6o9Ag-F)|코드 및 마크다운 작성|
->|5|GitHub|[🔗](%5BH-01%5D%20Team03_Datathon.ipynb)|업로드 및 제출|
+>|2|Figma|[🔗][Figma]|자료 정리|
+>|3|Google Shared Drive|[🔗][Google Shared Drive]|파일 공유|
+>|4|Colab Jupyter Notebook|[🔗][Colab Jupyter Notebook]|코드 및 마크다운 작성|
+>|5|GitHub|[🔗][GitHub]|업로드 및 제출|
+
+[Figma]: https://www.figma.com/file/fvseqWDBu9KVL02yCtXK1d/H-01_3%EC%A1%B0?node-id=0%3A1
+[Google Shared Drive]: https://drive.google.com/drive/folders/1BTrydJv_zhqTk7zyQS8pjf4NgPnFfsCC?usp=sharing
+[Colab Jupyter Notebook]: https://colab.research.google.com/drive/1lU_jVPNErtE1wvx5NGM_VsNSk6o9Ag-F
+[GitHub]: %5BH-01%5D%20Team03_Datathon.ipynb
 
 **[⬆ back to top](#-table-of-contents)**
 

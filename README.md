@@ -2,7 +2,6 @@
 
 <h1 align="center">🎉 제 1차 해커톤: 데이터톤(Datathon) 🎉</h1>
 
-<h2 align="right">AIFFEL_HACKATHON_1</h2>
 <div align="right">AIFFEL DAEGU 1 TEAM 3</div>
 <div align="right"><i>#Tags: EDA</i></div>
 

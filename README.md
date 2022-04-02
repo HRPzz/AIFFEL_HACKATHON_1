@@ -1,8 +1,12 @@
 <h1 align="center">🎉 제 1차 해커톤: 데이터톤(Datathon) 🎉</h1>
 
-<div align="right"><a href="https://github.com/HRPzz/AIFFEL_HACKATHON_1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL_HACKATHON_1&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=AIFFEL_HACKATHON_1&edge_flat=false)"/></a></div>
-<div align="right">AIFFEL DAEGU 1 TEAM 3</div>
-<div align="right"><i>#Tags: EDA</i></div>
+<div align="right">
+  <a href="https://github.com/HRPzz/AIFFEL_HACKATHON_1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz%2FAIFFEL_HACKATHON_1&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=AIFFEL_HACKATHON_1&edge_flat=false)"/></a>
+  <br>
+  AIFFEL DAEGU 1 TEAM 3
+  <br>
+  <i>#Tags: EDA</i>
+</div>
 
 [➡ [H-01] Team03_Datathon.ipynb with nbviewer][H-01 nbviewer]
 
